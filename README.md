@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is HARIS and I'm a System Information Student from Banten, Indonesia</h2>
+<h2 align="left">Hi 👋! My name is HARIS and I'm a College Student from Indonesia</h2>
 
 ###
 
